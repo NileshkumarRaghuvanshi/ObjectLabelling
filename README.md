@@ -1,5 +1,7 @@
 # ObjectLabelling
 
-provide image in images foder 
-run the python file
-annoted bounding boxes will be in xml format in Annotations folder
+1.provide image in images foder 
+
+2.run the python file
+
+3.Annotated bounding boxes will be in xml format in Annotations folder
