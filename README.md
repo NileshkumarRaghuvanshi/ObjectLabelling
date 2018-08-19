@@ -1,6 +1,6 @@
 # ObjectLabelling
 
-1.provide image in images foder 
+1.provide multiple images in images foder 
 
 2.run the python file
 
